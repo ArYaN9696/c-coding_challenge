@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# training\\coding challenge\\CodingC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD671D82-F380-473F-BE15-14DE1501AEF8}|Hospital_Management\\Hospital_Management.csproj|d:\\c# training\\coding challenge\\codingc\\hospital_management\\repository\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD671D82-F380-473F-BE15-14DE1501AEF8}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\repository\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD671D82-F380-473F-BE15-14DE1501AEF8}|Hospital_Management\\Hospital_Management.csproj|d:\\c# training\\coding challenge\\codingc\\hospital_management\\repository\\interface\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD671D82-F380-473F-BE15-14DE1501AEF8}|Hospital_Management\\Hospital_Management.csproj|solutionrelative:hospital_management\\repository\\interface\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHospitalService.cs",
+              "DocumentMoniker": "D:\\c# training\\coding challenge\\CodingC\\Hospital_Management\\Repository\\Interface\\IHospitalService.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Repository\\Interface\\IHospitalService.cs",
+              "ToolTip": "D:\\c# training\\coding challenge\\CodingC\\Hospital_Management\\Repository\\Interface\\IHospitalService.cs",
+              "RelativeToolTip": "Hospital_Management\\Repository\\Interface\\IHospitalService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:47:30.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalServiceImpl.cs",
+              "DocumentMoniker": "D:\\c# training\\coding challenge\\CodingC\\Hospital_Management\\Repository\\HospitalServiceImpl.cs",
+              "RelativeDocumentMoniker": "Hospital_Management\\Repository\\HospitalServiceImpl.cs",
+              "ToolTip": "D:\\c# training\\coding challenge\\CodingC\\Hospital_Management\\Repository\\HospitalServiceImpl.cs",
+              "RelativeToolTip": "Hospital_Management\\Repository\\HospitalServiceImpl.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAwLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:25:41.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
